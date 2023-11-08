@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev_test",
+    "section": "",
+    "text": "Check out the core module!"
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev_test",
+    "section": "Install",
+    "text": "Install\npip install nbdev_test"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev_test",
+    "section": "How to use",
+    "text": "How to use\nA short example of how to use the package:\n\nfrom nbdev_test.core import say_hello\n\nprint(say_hello(\"Olaf\"))\n\nHello Olaf!"
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source"
+  },
+  {
+    "objectID": "core.html#thats-it-bam",
+    "href": "core.html#thats-it-bam",
+    "title": "core",
+    "section": "That’s it bam!",
+    "text": "That’s it bam!"
+  }
+]
