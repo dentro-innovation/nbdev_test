@@ -5,4 +5,7 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://dentro-innovation.github.io',
                 'git_url': 'https://github.com/dentro-innovation/nbdev_test',
                 'lib_path': 'nbdev_test'},
-  'syms': {'nbdev_test.core': {'nbdev_test.core.foo': ('core.html#foo', 'nbdev_test/core.py')}}}
+  'syms': { 'nbdev_test.core': { 'nbdev_test.core.foo': ('core.html#foo', 'nbdev_test/core.py'),
+                                 'nbdev_test.core.say_hello': ('core.html#say_hello', 'nbdev_test/core.py')},
+            'nbdev_test.hello_nbdev': {'nbdev_test.hello_nbdev.foo': ('hello_nbdev.html#foo', 'nbdev_test/hello_nbdev.py')},
+            'nbdev_test.lol': {'nbdev_test.lol.foo': ('hello_nbdev.html#foo', 'nbdev_test/lol.py')}}}
